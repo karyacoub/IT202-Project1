@@ -57,8 +57,8 @@ section h3.section-subheading{
     border-color:#D50032
 }
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{
-    background-color:#001E62!important;
-    border-color:#001E62!important;
+    background-color:#00B5E2!important;
+    border-color:#00B5E2!important;
     color:#fff
 }
 .btn-primary:active,.btn-primary:focus{
@@ -209,7 +209,7 @@ header.masthead .intro-text .intro-heading{
     -webkit-transition:all ease .5s;
     transition:all ease .5s;
     opacity:0;
-    background:rgba(254,209,54,.9)
+    background:rgba(213,0,50,.8)
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover{
     opacity:1
@@ -577,7 +577,7 @@ ul.social-buttons li a{
     color:#fff;
     border-radius:100%;
     outline:0;
-    background-color:#212529
+    background-color:#D50032
 }
 ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover{
     background-color:#D50032
